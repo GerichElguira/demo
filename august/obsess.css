@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(5, 5, 5);
+}
+.obsession{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgba(150, 0, 0, 0.747);
+    text-align: left;
+    margin: 0;
+}
+.imageone{
+    
+    width: 30%;
+}
+.aso{
+    position:absolute;
+    width: 70%;
+    left: 15%;
+    top: 20px;
+    padding: 30px;
+}
